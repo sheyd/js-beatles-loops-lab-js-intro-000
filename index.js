@@ -16,3 +16,8 @@ function johnLennonFacts (facts) {
   }
   return excitedLennon;
 }
+
+function iLoveTheBeatles (number) {
+  let beatleLove = [];
+  
+}
